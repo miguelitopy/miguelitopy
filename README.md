@@ -2,11 +2,15 @@
   <img src="snoopy.gif" alt="Snoopy voando" width="200"/>
 </p>
 
-## Hi, I am Engº Miguel! 👨‍💻 
 
-- I am Computer Engineer at Faculdade Matias Machline, in Brazil.
-- I Backend Developer.
-- I’m currently a Software Developer Analyst JR in LG Eletronics
+## Hi, I am Engº Miguel! 👨‍💻
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+- :school: I am a `Computer Engineer` at Faculdade Matias Machline
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I pratice coding programmer at  `Leetcode`, `Exercism`.
+- :student: I’m currently learning `Backend Development` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently work as Software Developer
 
 <div align="left">
   <a href="https://www.linkedin.com/in/luizmiguelbastos/" target="_blank">
@@ -38,3 +42,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
+
+
